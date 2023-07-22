@@ -15,8 +15,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AuricelioSilva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AuricelioSilva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320)
+![](https://github-readme-stats.vercel.app/api?username=aurisilva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurisilva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320)
 
 
 ---
