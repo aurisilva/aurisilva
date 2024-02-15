@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalho como analista de Infraestrutura<br>👯 Cursando Analise de Dados<br>🌱 Profissional com carreira em evolução na área de dados.<br>💬 Habilidades em ETL<br>
+🔭 Trabalho como analista de Infraestrutura<br>👯 Cursando Microsoft Azure AI Fundamentals<br>🌱 Profissional com carreira em evolução na área de Segurança da Informação.<br>💬 Habilidades em ETL<br>
 
 
 ## 🌐 Socials:
