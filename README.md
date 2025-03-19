@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalho como analista de Infraestrutura<br>👯 Cursando Analista de Dados EBAC<br>🌱 Profissional com carreira em evolução na área de Dados.<br>💬 Habilidades em ETL<br>
+🔭 Trabalho como analista de Infraestrutura<br>👯 Cursando Analista de Dados EBAC<br>🌱Curso AWS em andamento ( Certificação ).<br>💬 Habilidades em ETL<br>
 
 
 ## 🌐 Socials:
